@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<greetingUrl></greetingUrl>
+	<pin>1234</pin>
+	<voicemailEmailToAddress>bradoyler@gmail.com</voicemailEmailToAddress>
+	<voicemailEmailFromAddress>voicemail@w3gifts.com</voicemailEmailFromAddress>
+</settings>

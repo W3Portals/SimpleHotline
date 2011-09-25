@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHotline", "SimpleHotline.csproj", "{4CE9B29C-492F-4F0B-A24F-6FAABA1BCFD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE9B29C-492F-4F0B-A24F-6FAABA1BCFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE9B29C-492F-4F0B-A24F-6FAABA1BCFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE9B29C-492F-4F0B-A24F-6FAABA1BCFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE9B29C-492F-4F0B-A24F-6FAABA1BCFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

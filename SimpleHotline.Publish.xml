@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://ftp.w3portals.com/w3portals/SimpleHotline/" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="administrator" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0KoUFSZvmkepyyfA/EGnGwAAAAACAAAAAAADZgAAwAAAABAAAADS8cBW2HIELM7hhLgtwQr7AAAAAASAAACgAAAAEAAAAC1Aip+VcvoyMrtXDYjlIP4YAAAAbHYWLDGBTgyQEr2fbQcfFRJG9scMlm/DFAAAAAnb1cyXJAzaqNhw0W13nlc6ss3e" SelectedForPublish="True">
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="08/11/2011 20:33:42" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="App_Data/Settings.xml" publishTime="08/11/2011 22:01:41" />
+    <file relUrl="Web.config" publishTime="08/11/2011 23:30:23" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="08/11/2011 20:33:40" />
+    <file relUrl="bin/SimpleHotline.pdb" publishTime="08/15/2011 23:52:05" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Global.asax" publishTime="04/11/2009 21:41:46" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="08/11/2011 20:33:40" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="08/11/2011 20:33:41" />
+    <file relUrl="bin/SimpleHotline.dll" publishTime="08/15/2011 23:52:05" />
+  </publishProfile>
+</publishData>

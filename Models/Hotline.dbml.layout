@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Hotline">
+  <DataContextMoniker Name="/HotlineDataContext" />
+  <nestedChildShapes>
+    <classShape Id="24d6efd0-c6aa-41d2-bcd5-f411be83e471" absoluteBounds="3.125, 0.875, 2, 2.5401025390625">
+      <DataClassMoniker Name="/HotlineDataContext/Episode" />
+      <nestedChildShapes>
+        <elementListCompartment Id="54a768c1-2bb4-4d49-ba33-5af9844f3195" absoluteBounds="3.14, 1.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
